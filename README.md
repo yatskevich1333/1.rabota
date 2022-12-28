@@ -1,1 +1,2 @@
-# 1.rabota
+# 1,2
+.rabota
